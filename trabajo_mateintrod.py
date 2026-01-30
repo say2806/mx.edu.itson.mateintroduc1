@@ -12,4 +12,3 @@ an = a - uni #alum q no estudian ninguno
 
 print("Alumnos que no estudian ningun idioma:", an)
 print("Alumnos que estudian ingles o frances:", uni)
-print("Alumnos totales:", a)
